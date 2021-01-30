@@ -6,7 +6,7 @@
 programming for data science
 
 ### Description
-Describe what your project is about and what it does
+Python project with Udacity and Misk for Intro to data science with Python course.
 
 ### Files used
 Include the files used
